@@ -1,16 +1,16 @@
-## Hi there 👋
+<p href="https://api.lanyard.rest/v1/users/453585632565002243" align="center" width="1000px">
+    <img src="https://lanyard.cnrad.dev/api/453585632565002243?borderRadius=30px"/>
+</p>
 
-<!--
-**swoxycan/swoxycan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,cs,vscode,js,css,html,go,perl,cpp" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p href="https://discord.com/users/453585632565002243" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxycan&theme=tokyonight&show_icons=true">
+</p>
+
+
